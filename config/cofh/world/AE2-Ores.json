@@ -1,0 +1,32 @@
+{
+    "certusquartz": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "appliedenergistics2:tile.OreQuartz",
+                "metadata": 0,
+                "weight": 90
+            },
+            {
+                "name": "appliedenergistics2:tile.OreQuartzCharged",
+                "metadata": 0,
+                "weight": 10
+            }
+        ],
+        "clusterSize": 3,
+        "numClusters": 4,
+        "minHeight": 36,
+        "maxHeight": 54,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            1,
+            -1,
+            -28,
+            -29,
+            -30
+        ]
+    }
+}

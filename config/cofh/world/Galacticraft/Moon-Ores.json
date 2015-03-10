@@ -1,0 +1,228 @@
+{
+    "moon-iron": {
+        "template": "normal",
+        "block": {
+            "name": "InterstellarOres:oreMoon",
+            "metadata": 0
+        },
+        "material": [
+            {"name": "GalacticraftCore:tile.moonBlock", "metadata": 4}
+        ],
+        "clusterSize": 13,
+        "numClusters": 10,
+        "meanHeight": 48,
+        "maxVariance": 13,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -28
+        ]
+    },
+    "moon-gold": {
+        "template": "normal",
+        "block": {
+            "name": "InterstellarOres:oreMoon",
+            "metadata": 1
+        },
+        "material": [
+            {"name": "GalacticraftCore:tile.moonBlock", "metadata": 4}
+        ],
+        "clusterSize": 8,
+        "numClusters": 5,
+        "meanHeight": 18,
+        "maxVariance": 6,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -28
+        ]
+    },
+    "moon-copper": {
+        "template": "normal",
+        "block": {
+            "name": "InterstellarOres:oreMoon",
+            "metadata": 2
+        },
+        "material": [
+            {"name": "GalacticraftCore:tile.moonBlock", "metadata": 4}
+        ],
+        "clusterSize": 11,
+        "numClusters": 8,
+        "meanHeight": 58,
+        "maxVariance": 7,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -28
+        ]
+    },
+    "moon-tin": {
+        "template": "normal",
+        "block": {
+            "name": "InterstellarOres:oreMoon",
+            "metadata": 3
+        },
+        "material": [
+            {"name": "GalacticraftCore:tile.moonBlock", "metadata": 4}
+        ],
+        "clusterSize": 10,
+        "numClusters": 8,
+        "meanHeight": 37,
+        "maxVariance": 7,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -28
+        ]
+    },
+    "moon-silver": {
+        "template": "normal",
+        "block": [
+            {
+                "name": "InterstellarOres:oreMoon",
+                "metadata": 5,
+                "weight": 80
+            },
+            {
+                "name": "InterstellarOres:oreMoon",
+                "metadata": 4,
+                "weight": 20
+            }
+        ],
+        "material": [
+            {"name": "GalacticraftCore:tile.moonBlock", "metadata": 4}
+        ],
+        "clusterSize": 9,
+        "numClusters": 7,
+        "meanHeight": 24,
+        "maxVariance": 6,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -28
+        ]
+    },
+    "moon-lead": {
+        "template": "normal",
+        "block": [
+            {
+                "name": "InterstellarOres:oreMoon",
+                "metadata": 4,
+                "weight": 90
+            },
+            {
+                "name": "InterstellarOres:oreMoon",
+                "metadata": 5,
+                "weight": 10
+            }
+        ],
+        "material": [
+            {"name": "GalacticraftCore:tile.moonBlock", "metadata": 4}
+        ],
+        "clusterSize": 10,
+        "numClusters": 7,
+        "meanHeight": 28,
+        "maxVariance": 6,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -28
+        ]
+    },
+    "moon-nickel": {
+        "template": "uniform",
+        "block": {
+            "name": "InterstellarOres:oreMoon",
+            "metadata": 6
+        },
+        "material": [
+            {"name": "GalacticraftCore:tile.moonBlock", "metadata": 4}
+        ],
+        "clusterSize": 6,
+        "numClusters": 5,
+        "minHeight": 6,
+        "maxHeight": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -28
+        ]
+    },
+    "moon-aluminum": {
+        "template": "uniform",
+        "block": {
+            "name": "InterstellarOres:oreMoon",
+            "metadata": 7
+        },
+        "material": [
+            {"name": "GalacticraftCore:tile.moonBlock", "metadata": 4}
+        ],
+        "clusterSize": 4,
+        "numClusters": 13,
+        "minHeight": 44,
+        "maxHeight": 62,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -28
+        ]
+    },
+    "moon-osmium": {
+        "template": "normal",
+        "block": {
+            "name": "InterstellarOres:oreMoon",
+            "metadata": 8
+        },
+        "material": [
+            {"name": "GalacticraftCore:tile.moonBlock", "metadata": 4}
+        ],
+        "clusterSize": 8,
+        "numClusters": 10,
+        "meanHeight": 16,
+        "maxVariance": 14,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -28
+        ]
+    },
+    "moon-lunarium": {
+        "template": "uniform",
+        "block": {
+            "name": "InterstellarOres:oreMoon",
+            "metadata": 9
+        },
+        "material": [
+            {"name": "GalacticraftCore:tile.moonBlock", "metadata": 4}
+        ],
+        "clusterSize": 9,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -28
+        ]
+    }
+}

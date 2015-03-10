@@ -1,0 +1,144 @@
+{
+    "asteroids-diamond": {
+        "template": "uniform",
+        "block": {
+            "name": "InterstellarOres:oreAsteroid",
+            "metadata": 0
+        },
+        "material": [
+            {"name": "GalacticraftMars:tile.asteroidsBlock", "metadata": 0}, {"name": "GalacticraftMars:tile.asteroidsBlock", "metadata": 1}, {"name": "GalacticraftMars:tile.asteroidsBlock", "metadata": 2}
+        ],
+        "clusterSize": 9,
+        "numClusters": 20,
+        "minHeight": 60,
+        "maxHeight": 192,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -30
+        ]
+    },
+    "asteroids-shiny": {
+        "template": "uniform",
+        "block": {
+            "name": "InterstellarOres:oreAsteroid",
+            "metadata": 1
+        },
+        "material": [
+            {"name": "GalacticraftMars:tile.asteroidsBlock", "metadata": 0}, {"name": "GalacticraftMars:tile.asteroidsBlock", "metadata": 1}, {"name": "GalacticraftMars:tile.asteroidsBlock", "metadata": 2}
+        ],
+        "clusterSize": 9,
+        "numClusters": 20,
+        "minHeight": 128,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -30
+        ]
+    },
+    "asteroids-quartz": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "InterstellarOres:oreAsteroid",
+                "metadata": 2,
+                "weight": 80
+            },
+            {
+                "name": "InterstellarOres:oreAsteroid",
+                "metadata": 3,
+                "weight": 20
+            }
+        ],
+        "material": [
+            {"name": "GalacticraftMars:tile.asteroidsBlock", "metadata": 0}, {"name": "GalacticraftMars:tile.asteroidsBlock", "metadata": 1}, {"name": "GalacticraftMars:tile.asteroidsBlock", "metadata": 2}
+        ],
+        "clusterSize": 20,
+        "numClusters": 33,
+        "minHeight": 60,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -30
+        ]
+    },
+    "iceasteroids-diamond": {
+        "template": "uniform",
+        "block": {
+            "name": "InterstellarOres:oreIce",
+            "metadata": 0
+        },
+        "material": [
+            {"name": "GalacticraftMars:tile.denseIce", "metadata": 0}
+        ],
+        "clusterSize": 9,
+        "numClusters": 20,
+        "minHeight": 60,
+        "maxHeight": 192,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -30
+        ]
+    },
+    "iceasteroids-shiny": {
+        "template": "uniform",
+        "block": {
+            "name": "InterstellarOres:oreIce",
+            "metadata": 1
+        },
+        "material": [
+            {"name": "GalacticraftMars:tile.denseIce", "metadata": 0}
+        ],
+        "clusterSize": 9,
+        "numClusters": 20,
+        "minHeight": 128,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -30
+        ]
+    },
+    "iceasteroids-quartz": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "InterstellarOres:oreIce",
+                "metadata": 2,
+                "weight": 80
+            },
+            {
+                "name": "InterstellarOres:oreIce",
+                "metadata": 3,
+                "weight": 20
+            }
+        ],
+        "material": [
+            {"name": "GalacticraftMars:tile.denseIce", "metadata": 0}
+        ],
+        "clusterSize": 20,
+        "numClusters": 33,
+        "minHeight": 60,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -30
+        ]
+    }
+}
