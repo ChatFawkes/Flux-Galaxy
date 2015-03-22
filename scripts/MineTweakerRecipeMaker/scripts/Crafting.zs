@@ -41,6 +41,7 @@ recipes.addShaped(<StevesFactoryManager:BlockMachineManagerName>, [[<ore:ingotTi
 recipes.addShaped(<StevesFactoryManager:BlockMachineManagerName>, [[<ore:ingotTitanium>, <ore:ingotTitanium>, <ore:ingotTitanium>], [<ore:ingotTitanium>, <ore:blockRedstone>, <ore:ingotTitanium>], [<ore:asteroidRock>, <TMechworks:RedstoneMachine>, <ore:asteroidRock>]]);
 recipes.addShaped(<StevesFactoryManager:BlockMachineManagerName>, [[<ore:ingotTitanium>, <ore:ingotTitanium>, <ore:ingotTitanium>], [<ore:ingotTitanium>, <ore:blockRedstone>, <ore:ingotTitanium>], [<ore:asteroidRock>, <TMechworks:RedstoneMachine>, <ore:asteroidRock>]]);
 
+// ================================================================================
 //#MARKER ADD TOOLTIPS
 <minechem:tile.chemicalSynthesizer>.addTooltip(format.darkAqua(format.italic("<Flux Shift>")));
 <minechem:tile.chemicalSynthesizer>.addShiftTooltip(format.darkPurple("Requires materials"));
