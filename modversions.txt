@@ -9,14 +9,14 @@ liteloader-1.7.10.jar
 AgriCraft-1.7.10-1.3.1.jar
 AOBD-2.4.0.jar
 AppleCore-mc1.7.10-1.1.0.jar
-appliedenergistics2-rv2-beta-8.jar
-Automagy-1.7.10-0.21.jar
+appliedenergistics2-rv2-beta-18.jar
+Automagy-1.7.10-0.22.1.jar
 BiblioCraft[v1.10.2][MC1.7.10].jar
 BigReactors-0.4.1A2.jar
 binnie-mods-2.0-pre8.jar
 BloodMagic-1.7.10-1.3.1-7.jar
 BluePower-1.7.10-0.2.857-universal.jar
-Botania r1.5-170.jar
+Botania r1.5-172.jar
 buildcraft-6.4.3.jar
 buildcraft-compat-6.4.0.jar
 Carpenter's Blocks v3.3.5 - MC 1.7.10.jar
@@ -31,7 +31,7 @@ CreeperCollateral-[1.7.10]1.0.0B3-6.jar
 CustomMainMenu-MC1.7.10-1.0.jar
 dimensional-anchor-59.0.2.jar
 Enchiridion-1.7.X-1.2a.jar
-EnderIO-1.7.10-2.2.8.355.jar
+EnderIO-1.7.10-2.2.8.364.jar
 EnderZoo-1.7.10-1.0.9.19.jar
 ExtraCells-1.7.10-2.2.59b89.jar
 extrautilities-1.2.2.jar
@@ -106,7 +106,7 @@ TMechworks-1.7.10-0.2.14.100.jar
 Translocator-1.7.10-1.1.1.14-universal.jar
 TSteelworks-1.7.10-1.1.0-7.jar
 ttCore-MC1.7.10-0.1.0-67.jar
-voxelMap_1.5.4_for_1.7.10.litemod
+voxelMap_1.5.6_for_1.7.10.litemod
 Waila-1.5.10_1.7.10.jar
 WAILAPlugins-MC1.7.10-0.0.1-13.jar
 witchery-1.7.10-0.23.2.jar
