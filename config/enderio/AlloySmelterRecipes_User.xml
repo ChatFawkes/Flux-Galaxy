@@ -26,6 +26,30 @@ ore dictionary.
 -->
 
 <AlloySmelterRecipes>
-  
+
+  <recipeGroup name="Galacticraft">
+    <recipe name="Basic Wafer" energyCost="10000">
+      <input>
+        <itemStack modID="minecraft" itemName="diamond" />
+        <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="3" />
+        <itemStack modID="minecraft" itemName="redstone_torch" />
+      </input>
+      <output>
+        <itemStack modID="GalacticraftCore" itemName="item.basicItem" itemMeta="13" number="3" />
+      </output>
+    </recipe>
+    
+    <recipe name="Advanced Wafer" energyCost="20000">
+      <input>
+        <itemStack modID="minecraft" itemName="diamond" />
+        <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="3" />
+        <itemStack modID="minecraft" itemName="repeater" />
+      </input>
+      <output>
+        <itemStack modID="GalacticraftCore" itemName="item.basicItem" itemMeta="14" />
+      </output>
+    </recipe>
+  </recipeGroup>
+    
 </AlloySmelterRecipes>  
 
